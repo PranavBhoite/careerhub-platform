@@ -1,6 +1,6 @@
 CareerHub
 
-Overview
+
 
 CareerHub is your all-in-one platform for seamless job searching, hiring, and administration. Designed to connect talented candidates with top companies, CareerHub simplifies the recruitment process, ensuring a smooth and efficient experience for all users.
 
